@@ -25,5 +25,3 @@
 </div>
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/adrianakellysl/count.svg" /></p>
 
-
-![snake gif](https://github.com/Adrianakellysl/Adrianakellysl/blob/output/github-contribution-grid-snake.svg)
