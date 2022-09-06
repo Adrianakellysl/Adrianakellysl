@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Adriana Lima 
 ### Graduada em Análise e Desenvolvimento de Sistemas 👩‍💻 😊
 ###  Encantada pelo mundo da tecnologia 🥰
-### Iniciando no Front-End 💻 
+### Iniciando os estudos em Front-End 💻 
  
  <div>
   <a href="https://github.com/Adrianakellysl">
