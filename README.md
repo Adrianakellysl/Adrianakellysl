@@ -9,8 +9,8 @@ Sou entusiasta de Qualidade de Software (QA), com foco em testes manuais e autom
 
 ## Como me encontrar
 
-📧 [E-mail: adrianakely07@gmail.com](mailto:adrianakely07@gmail.com)  
-💼 [LinkedIn: meu perfil](https://www.linkedin.com/in/adriana-kelly-lima/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianakely07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-kelly-lima/)
 
 ---
 
