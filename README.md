@@ -9,14 +9,15 @@ Sou entusiasta de Qualidade de Software (QA), com foco em testes manuais e autom
 
 ## Como me encontrar
 
-E-mail: [adrianakely07@gmail.com](mailto:adrianakely07@gmail.com)
-LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/adriana-kelly-lima/)
+📧 [E-mail: adrianakely07@gmail.com](mailto:adrianakely07@gmail.com)  
+💼 [LinkedIn: meu perfil](https://www.linkedin.com/in/adriana-kelly-lima/)
+
 ---
 
 ## Tecnologias em estudo e prática
 
 ### Linguagens
-JavaScript • HTML • CSS  
+JavaScript • HTML5 • CSS3 
 
 ### Testes / QA
 Testes Manuais e automatizados • Testes de API • Criação de Casos de Teste • Validação de Requisitos  
