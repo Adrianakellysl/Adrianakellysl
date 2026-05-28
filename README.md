@@ -2,7 +2,7 @@
 
 Sou entusiasta de Qualidade de Software (QA), com foco em testes manuais e automação, buscando melhorar a qualidade e a confiabilidade das aplicações.
 
-- Atualmente estou estudando Testes de Software e QA com foco em prática.
+- Atualmente estou estudando Testes de Software e QA com foco na migração para a área.
 - Em aprendizado: automação de testes, APIs REST e metodologias ágeis.
 
 ---
@@ -14,7 +14,7 @@ Sou entusiasta de Qualidade de Software (QA), com foco em testes manuais e autom
 
 ---
 
-## Tecnologias em estudo e prática
+## Tecnologias Utilizadas
 
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
